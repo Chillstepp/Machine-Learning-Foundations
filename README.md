@@ -9,3 +9,4 @@
 - CH2：Learning to Answer Yes or No
 - CH3：Types of Learning
 - CH4：CH4Feasibility of Learning（学习可行性）
+- CH5：Training VS Testing
