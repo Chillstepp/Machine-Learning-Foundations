@@ -10,4 +10,5 @@
 - CH3：Types of Learning
 - CH4：CH4Feasibility of Learning（学习可行性）
 - CH5：Training VS Testing
-- CH6：Theory of Generalization [这章最后一节感觉讲的有点快了，晕晕了QAQ]
+- CH6：Theory of Generalization
+- CH7：The VC Dimension
