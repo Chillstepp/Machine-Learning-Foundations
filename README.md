@@ -12,3 +12,4 @@
 - CH5：Training VS Testing
 - CH6：Theory of Generalization
 - CH7：The VC Dimension
+- CH8：Noise and Error
