@@ -1,4 +1,4 @@
-# Coursera-Machine-Learning-Foundations-Mathematical-Foundations
+# Coursera-Machine-Learning-Foundations-Foundations
 
 笔记存储
 
@@ -13,3 +13,4 @@
 - CH6：Theory of Generalization
 - CH7：The VC Dimension
 - CH8：Noise and Error
+- CH9：Linear-Regression
