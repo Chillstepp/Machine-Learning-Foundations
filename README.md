@@ -14,3 +14,4 @@
 - CH7：The VC Dimension
 - CH8：Noise and Error
 - CH9：Linear-Regression
+- CH10：Logistic-Regression
