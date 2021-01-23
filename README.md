@@ -16,3 +16,4 @@
 - CH9：Linear-Regression
 - CH10：Logistic-Regression
 - CH11：Linear-Models-for-Classification
+- CH12：Nonlinear-Transformation
