@@ -1,4 +1,4 @@
-# Coursera-Machine-Learning-Foundations
+# Coursera-Machine-Learning-Foundations(已完结)
 
 笔记存储
 
@@ -17,3 +17,9 @@
 - CH10：Logistic-Regression
 - CH11：Linear-Models-for-Classification
 - CH12：Nonlinear-Transformation
+- CH13：Hazard-of-Overfitting
+- CH14：Regularization
+- CH15：Validation
+- CH16：Three-Learning-Principle
+
+(完结)
